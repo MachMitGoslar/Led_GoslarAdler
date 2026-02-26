@@ -8,3 +8,12 @@ Im mittleren Segment sind die Led´s eingeschoben. Darauf sind in den 3 Kreisen 
 Die Obere Platte wird an den vorgesehenen Stellen auf die 3 stützen aufgesetzt.
 
 Die einzelnen Segmente werden verklebt.
+
+# Hier sind alle benötigten Teile aufgelistet
+
+- Unterer Teil
+- Mittlerer Teil
+- Stützen, die die obere Platte halten
+- Obere Platte
+- CR2032 Knopfzelle
+- 2 LED´s
