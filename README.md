@@ -1,4 +1,4 @@
-# Led_GoslarAdler
+# Goslar Adler mit LED´s
 Adler Kopf zum selber zusammenbauen. Kann als Halskette getragen werden
 
 Besteht aus 4 Teilen. Es sind 2 Led´s verbaut, eine dierekt unter dem Auge und eine als inidrekte Beleuchtung.
